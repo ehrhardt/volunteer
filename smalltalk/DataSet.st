@@ -1,0 +1,1 @@
+'From Squeak4.3 of 22 December 2011 [latest update: #11860] on 8 December 2012 at 1:55:12 am'!Object subclass: #DataSet	instanceVariableNames: 'status'	classVariableNames: ''	poolDictionaries: ''	category: 'POO2012-EP2'!!DataSet methodsFor: 'initialize-release' stamp: 'Luciano 11/24/2012 13:17'!initialize	status := StatusSet new.! !
